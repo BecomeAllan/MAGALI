@@ -1,7 +1,3 @@
-Of course! Here's a refined version of your content, removing redundancies and streamlining the information:
-
----
-
 <p align="center">
   <img src="magali.png" alt="MAGALI" width="150">
 </p>
